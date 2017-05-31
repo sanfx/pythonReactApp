@@ -1,4 +1,4 @@
-app/assets
+assets
 app/.*
 .*
 !/.gitignore
